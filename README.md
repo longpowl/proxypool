@@ -17,6 +17,7 @@
 </p>
 
 ## 支持
+##打赏我 https://www.paypal.com/paypalme/uaa2020
 
 - 支持ss、ssr、vmess、trojan多种类型
 - Telegram频道抓取
